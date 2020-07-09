@@ -12,7 +12,7 @@ import (
 )
 
 func main()  {
-	botToken := "1192406046:AAEfLYwSqVFHhJ0bsPC903ogdxHVMNvBIUs"
+	botToken := "токен вашего бота"
 //https://api.telegram.org/bot<token>/METHOD_NAME
 	botApi := "https://api.telegram.org/bot"
 	botUrl := botApi + botToken
